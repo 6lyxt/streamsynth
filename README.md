@@ -1,5 +1,5 @@
-# rostig
-rostig.rs is a content managment system built with rust &amp; prism 
+# streamsynth
+streamsynth is a content managment system powered by php8.2 & react 
 
 
 # Overview
@@ -16,22 +16,22 @@ rostig.rs is a content managment system built with rust &amp; prism
 # Techstack
 | Technology  | Usage |
 | ----------- | ----------- |
-| Rust      | Building the boilerplate, powering the api & cms |
-| Prism   | ORM        |
+| PHP8.2      | Powering the main cms & rest api |
+| Doctrine   | ORM & DBAL        |
 | React   | powering the cms frontend & demo |
 
 
 # Branches
-The rostig repo is administrated & built on top of these branches:
+The streamsynth repo is administrated & built on top of these branches:
 
-- [Main](https://github.com/6lyxt/rostig/tree/main)
+- [Main](https://github.com/6lyxt/streamsynth/tree/main)
 
-- [Development](https://github.com/6lyxt/rostig/tree/dev)
+- [Development](https://github.com/6lyxt/streamsynth/tree/dev)
 
-- [Stable](https://github.com/6lyxt/rostig/tree/stable)
+- [Stable](https://github.com/6lyxt/streamsynth/tree/stable)
 
 ### Please note that the **main** branch is not used for releases! 
-It's simply being used for connecting pull requests & merging development states before being released on the [Stable](https://github.com/6lyxt/rostig/tree/stable) branch.
+It's simply being used for connecting pull requests & merging development states before being released on the [Stable](https://github.com/6lyxt/streamsynth/tree/stable) branch.
 
 # Documentation
 coming soon
