@@ -30,5 +30,6 @@ The rostig repo is administrated & built on top of these branches:
 
 - [Stable](https://github.com/6lyxt/rostig/tree/stable)
 
-## Please note that the **main** branch is not used for releases! It's simply being used for connecting pull requests & merging development states before being released on the [Stable](https://github.com/6lyxt/rostig/tree/stable) branch.
+### Please note that the **main** branch is not used for releases! 
+It's simply being used for connecting pull requests & merging development states before being released on the [Stable](https://github.com/6lyxt/rostig/tree/stable) branch.
 
