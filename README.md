@@ -33,3 +33,12 @@ The rostig repo is administrated & built on top of these branches:
 ### Please note that the **main** branch is not used for releases! 
 It's simply being used for connecting pull requests & merging development states before being released on the [Stable](https://github.com/6lyxt/rostig/tree/stable) branch.
 
+# Documentation
+coming soon
+
+# Contributors
+| User  | Role |
+| ----------- | ----------- |
+| 6lyxt      | project founder, project manager, main backend developer |
+| bongo   | project founder, project manager, main frontend designer & developer |
+
