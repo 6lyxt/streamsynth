@@ -40,5 +40,5 @@ coming soon
 | User  | Role |
 | ----------- | ----------- |
 | 6lyxt      | project founder, project manager, main backend developer |
-| bongo   | project founder, project manager, main frontend designer & developer |
+| bnmwag   | project founder, project manager, main frontend designer & developer |
 
