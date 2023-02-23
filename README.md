@@ -4,8 +4,11 @@ rostig.rs is a content managment system built with rust &amp; prism
 
 # Overview
 [Techstack](#techstack)
+
 [Documentation](#documentation)
+
 [Contributors](#contributors)
+
 [Demo](#demo)
 
 # Techstack
