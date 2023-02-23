@@ -1,0 +1,38 @@
+.topNav {
+  position: fixed;
+  top: 0;
+  left: 15vw;
+  width: 85vw;
+  height: 120px;
+  z-index: 101;
+  display: flex;
+  align-items: center;
+  padding: 0 2.5vw;
+  justify-content: space-between;
+}
+.topNav .pathNavigator span {
+  opacity: 0.5;
+  font-size: 14px;
+  transition: all 0.15s ease;
+  cursor: pointer;
+}
+.topNav .pathNavigator span:hover {
+  opacity: 1;
+}
+.topNav .pathNavigator span.noEvents {
+  pointer-events: none;
+}
+.topNav .userContainer {
+  display: flex;
+  gap: 20px;
+  align-items: center;
+}
+.topNav .userContainer .userIcon {
+  height: 40px;
+  aspect-ratio: 1;
+  background: #5716E2;
+  border-radius: 15px;
+  overflow: hidden;
+  display: grid;
+  place-items: center;
+}/*# sourceMappingURL=TopNav.module.css.map */

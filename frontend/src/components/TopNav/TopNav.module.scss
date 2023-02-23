@@ -1,0 +1,41 @@
+@import '../../scss-variable/colors.scss';
+.topNav {
+    position: fixed;
+    top: 0;
+    left: 15vw;
+    width: calc(100vw - 15vw);
+    height: 120px;
+    z-index: 101;
+    display: flex;
+    align-items: center;
+    padding: 0 2.5vw;
+    justify-content: space-between;
+    .pathNavigator {
+        span {
+            opacity: 0.5;
+            font-size: 14px;
+            transition: all 0.15s ease;
+            cursor: pointer;
+            &:hover {
+                opacity: 1;
+            }
+            &.noEvents {
+                pointer-events: none;
+            }
+        }
+    }
+    .userContainer {
+        display: flex;
+        gap: 20px;
+        align-items: center;
+        .userIcon {
+            height: 40px;
+            aspect-ratio: 1;
+            background: $accent;
+            border-radius: 15px;
+            overflow: hidden;
+            display: grid;
+            place-items: center;
+        }
+    }
+}
